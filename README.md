@@ -1,9 +1,11 @@
 # University Notes - 2025, 2026
 ## Dino Meng, BsC Artificial Intelligence and Data Analytics
 
-This is a repository containing lectures notes of the courses I am currently taking. Most of the notes will be provided as PDF files, separated (usually) by macro-arguments. 
+This is a repository containing lectures notes of the courses I am currently taking. Most of the notes will be provided as an all-comprehensive PDF.
 
-N.B. Most notes are taken in Italian
+Most of the notes will be taken in Italian, although there *might* be a plan to translate them into English (on commission).
+
+To request for more details or to report some potential errors in my notes, please contact me on Linkedin or on another known channel (I won't release my email or phone number for privacy concerns).
 
 **FIRST SEMESTER COURSES.**
 - Computer Networks and Foundations of Cybersecurity [ITA]
