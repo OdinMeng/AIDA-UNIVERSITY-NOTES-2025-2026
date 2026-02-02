@@ -16,5 +16,5 @@ To request for more details or to report some potential errors in my notes, plea
 **SECOND SEMESTER COURSES.** (*planned*)
 - Statistical Physics and Theory of Information [???]
 - Advanced and Parallel Programming [???]
-- Topology [???], to be confirmed
+- Topology [???], to be confirmed. most unlikely tbhhhhhh
 - Thesis, to be confirmed whether to dedicate a separate repository of the thesis or not
