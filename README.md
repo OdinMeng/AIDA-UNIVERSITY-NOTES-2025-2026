@@ -13,8 +13,9 @@ To request for more details or to report some potential errors in my notes, plea
 - Complex Systems [ITA]
 - Algebra 2 [ITA]
 
-**SECOND SEMESTER COURSES.** (*planned*)
-- Statistical Physics and Theory of Information [???]
-- Advanced and Parallel Programming [???]
-- Topology [???], to be confirmed. most unlikely tbhhhhhh
-- Thesis, to be confirmed whether to dedicate a separate repository of the thesis or not
+**SECOND SEMESTER COURSES.**
+- Statistical Physics and Theory of Information [ITA]
+- Advanced and Parallel Programming [ITA]
+
+The thesis project (or paper) will be uploaded in a dedicated repository (might not be publicly available until the graduation cerimony)
+
