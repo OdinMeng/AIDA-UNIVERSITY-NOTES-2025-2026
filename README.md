@@ -14,7 +14,7 @@ To request for more details or to report some potential errors in my notes, plea
 - Algebra 2 [ITA]
 
 **SECOND SEMESTER COURSES.**
-- Statistical Physics and Theory of Information [ITA]
+- Statistical Physics and Information Theory [ITA]
 - Advanced and Parallel Programming [ITA]
 
 The thesis project (or paper) will be uploaded in a dedicated repository (might not be publicly available until the graduation cerimony)
