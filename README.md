@@ -15,6 +15,8 @@ To request for more details or to report some potential errors in my notes, plea
 
 **SECOND SEMESTER COURSES.**
 - Statistical Physics and Information Theory [ITA]
+    - *N.B.* For the first and second call of the exam, the PDF file of the notes will not be released. Instead, the notes will be available only under payment (planned to be €20) in physical format (paper); only a small preview of the notes will be uploaded here, of around 10-20 pages. For further information please contact me through known channels.
+
 - Advanced and Parallel Programming [ITA]
 
 The thesis project (or paper) will be uploaded in a dedicated repository (might not be publicly available until the graduation cerimony)
