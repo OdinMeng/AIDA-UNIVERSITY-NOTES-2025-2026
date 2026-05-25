@@ -1,7 +1,7 @@
 # University Notes - 2025, 2026
 ## Dino Meng, BsC Artificial Intelligence and Data Analytics
 
-This is a repository containing lectures notes of the courses I am currently taking. Most of the notes will be provided as an all-comprehensive PDF.
+This is a repository containing lectures notes of the courses I am currently taking. Most of the notes will be provided as an all-comprehensive PDF file.
 
 Most of the notes will be taken in Italian, although there *might* be a plan to translate them into English (on commission).
 
